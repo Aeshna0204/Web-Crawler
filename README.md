@@ -16,3 +16,7 @@ python
 >>>from pymongo import MongoClient
 >>> client=MongoClient['localhost',27017]
 ```
+#### To create the CrawlerDB database run this command
+```bash
+mydb = client[‘name_of_the_database’]
+```
