@@ -4,5 +4,5 @@ This Web Crawler recursively web Scraps all the links available on the given url
 ### How to run the project?
 To web scraps the links you need to run "web_crawler.py" file using below command:
 ```bash
-python -u "d:\Tashu New\Aeshna -1 mock interview\web crwaler\web_crawler.py"
+python -u "d:\<your directory structure>\web Crawler\web_crawler.py"
 ```
