@@ -20,3 +20,12 @@ python
 ```bash
 mydb = client[‘name_of_the_database’]
 ```
+### File Description
+##### cfg.py 
+Contains necessary configuration like max url size and hardcoded url to scrap etc
+##### db_utils.py
+Contains function that interact with the database and stores links to database
+##### web_crawler.py
+Main function ,handles all exceptions and crawles links from the site.
+##### web_utils.py
+Checks validity of url
